@@ -10,7 +10,7 @@
   TensorFlow,
   
 - Ambiente di Sviluppo: 
-  JUPYTER
+  JUPYTER NOTEBOOK
 
 - Outline
 
